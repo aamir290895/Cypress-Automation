@@ -9,7 +9,6 @@
   "author": "aamir khan",
   "license": "ISC",
   "dependencies": {
-    "@4tw/cypress-drag-drop": "^2.1.0",
-    "cypress": "^9.1.1"
+    "@4tw/cypress-drag-drop": "^2.1.0"
   }
 }
